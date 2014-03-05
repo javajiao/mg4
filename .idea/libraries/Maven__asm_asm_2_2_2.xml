@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: asm:asm:2.2.2">
+    <CLASSES>
+      <root url="jar://D:/m2/g4.repo/asm/asm/2.2.2/asm-2.2.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/m2/g4.repo/asm/asm/2.2.2/asm-2.2.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/m2/g4.repo/asm/asm/2.2.2/asm-2.2.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

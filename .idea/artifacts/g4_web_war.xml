@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="g4-web:war">
+    <output-path>$PROJECT_DIR$/g4-web/target</output-path>
+    <root id="archive" name="g4-web.war">
+      <element id="artifact" artifact-name="g4-web:war exploded" />
+    </root>
+  </artifact>
+</component>

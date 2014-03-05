@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.jamonapi:jamon:2.0">
+    <CLASSES>
+      <root url="jar://D:/m2/g4.repo/com/jamonapi/jamon/2.0/jamon-2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/m2/g4.repo/com/jamonapi/jamon/2.0/jamon-2.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/m2/g4.repo/com/jamonapi/jamon/2.0/jamon-2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
